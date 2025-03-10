@@ -1,0 +1,3 @@
+C:/Users/FURY/Desktop/jarvis/build/CMakeFiles/speech_recognition.dir
+C:/Users/FURY/Desktop/jarvis/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/FURY/Desktop/jarvis/build/CMakeFiles/ZERO_CHECK.dir
